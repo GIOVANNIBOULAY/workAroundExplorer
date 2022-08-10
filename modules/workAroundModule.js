@@ -1,5 +1,5 @@
 // Add your imports here.
-import { getDataByRole, getDataByCompany } from 'salaryData.js';
+import { getDataByRole, getDataByCompany } from './salaryData.js';
 import salaryData from 'salaryData.js';
 
 // Replace the empty array with the appropriate imported function/value
